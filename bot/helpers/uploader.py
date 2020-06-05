@@ -44,8 +44,8 @@ class Uploader:
 
             properties = dict(
                 title = self.title if self.title else os.path.basename(self.file),
-                description = 'Uploaded to youtube with https://tx.me/youtubeitbot',
-                category = 27,
+                description = 'Follow IG: @rig.an',
+                category = 10,
                 privacyStatus = 'private'
             )
 
